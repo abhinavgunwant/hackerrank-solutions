@@ -1,0 +1,2 @@
+Problem Statement: https://www.hackerrank.com/rest/contests/master/challenges/find-second-maximum-number-in-a-list/download_pdf?language=English
+Test Cases: https://www.hackerrank.com/rest/contests/master/challenges/find-second-maximum-number-in-a-list/download_testcases
