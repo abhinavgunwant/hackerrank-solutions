@@ -1,0 +1,3 @@
+Problem URL: https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem
+Problem Statement: https://www.hackerrank.com/rest/contests/master/challenges/itertools-combinations-with-replacement/download_pdf?language=English
+Test Cases: https://www.hackerrank.com/rest/contests/master/challenges/itertools-combinations-with-replacement/download_testcases
