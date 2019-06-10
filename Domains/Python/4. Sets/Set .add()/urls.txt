@@ -1,0 +1,3 @@
+Problem URL: https://www.hackerrank.com/challenges/py-set-add/problem
+Problem Statement: https://www.hackerrank.com/rest/contests/master/challenges/py-set-add/download_pdf?language=English
+Test Cases: https://www.hackerrank.com/rest/contests/master/challenges/py-set-add/download_testcases
