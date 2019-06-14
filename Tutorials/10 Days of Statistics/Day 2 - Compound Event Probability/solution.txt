@@ -1,0 +1,15 @@
+Answer: 17/42
+
+----------
+P(Red ball in urn A) = 4/7
+P(Red ball in urn B) = 5/9
+P(Red ball in urn C) = 1/2
+P(Black ball in urn A) = 3/7
+P(Black ball in urn B) = 4/9
+P(Black ball in urn C) = 1/2
+
+P(2 red and 1 black ball)
+= P(red red black) + P(red black red) + P(black red red)
+= (4/7)*(5/9)*(1/2) + (4/7)*(4/9)*(1/2) + (3/7)*(5/9)*(1/2)
+= 51/126
+= 17/4
