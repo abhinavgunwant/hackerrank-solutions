@@ -1,0 +1,10 @@
+Answer: 1 / 3
+
+----------
+Reason: Here are all the possible combinations of outcomes
+for a family with 2 children:
+B B (Both boys)
+B G (1-boy and 1-girl)
+G G (Both girls)
+
+Only 1 / 3 have both boys...

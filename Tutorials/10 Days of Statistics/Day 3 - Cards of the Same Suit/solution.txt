@@ -1,0 +1,15 @@
+Answer: 12 / 51
+
+----------
+Total combination: 52 * 51
+
+No of ways for drawing 2 cards of same suit from 52 cards:
+    52C1 * 12C1
+
+    where 52C1 is the ways 1 card can be drawn from 52 cards
+    and 12C1 is the ways 1 card can be drawn from the same suit as the first card!
+
+P(2 cards drawn from 52 card deck without replacement have same color):
+    = ( 52C1 * 12C1 ) / ( 52C1 * 51C1 )
+    = ( 52 * 12 ) / ( 52 * 51 )
+    = 12 / 51
