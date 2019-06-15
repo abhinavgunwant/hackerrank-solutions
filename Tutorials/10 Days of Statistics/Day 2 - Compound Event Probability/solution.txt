@@ -1,4 +1,4 @@
-Answer: 17/42
+Answer: 17 / 42
 
 ----------
 P(Red ball in urn A) = 4/7
