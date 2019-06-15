@@ -1,0 +1,8 @@
+Answer:
+
+----------
+Since balls are being drawn without replacement and
+one red ball has already been drawn, we are left with
+2 red and and 4 blue balls. So
+P(Blue ball) = 4 / 6
+    = 2 / 3
