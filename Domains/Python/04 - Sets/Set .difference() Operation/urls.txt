@@ -1,0 +1,3 @@
+Problem URL: https://www.hackerrank.com/challenges/py-set-difference-operation/problem
+Problem Statement: https://www.hackerrank.com/rest/contests/master/challenges/py-set-difference-operation/download_pdf?language=English
+Test Cases: https://www.hackerrank.com/rest/contests/master/challenges/py-set-difference-operation/download_testcases

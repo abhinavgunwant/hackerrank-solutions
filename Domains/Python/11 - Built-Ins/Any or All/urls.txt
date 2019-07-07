@@ -1,0 +1,3 @@
+Problem URL: https://www.hackerrank.com/challenges/any-or-all/problem
+Problem Statement: https://www.hackerrank.com/rest/contests/master/challenges/any-or-all/download_pdf?language=English
+Test Cases: https://www.hackerrank.com/rest/contests/master/challenges/any-or-all/download_testcases

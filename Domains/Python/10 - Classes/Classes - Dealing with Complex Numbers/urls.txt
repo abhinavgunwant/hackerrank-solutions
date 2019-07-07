@@ -1,0 +1,3 @@
+Problem URL: https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem
+Problem Statement: https://www.hackerrank.com/rest/contests/master/challenges/class-1-dealing-with-complex-numbers/download_pdf?language=English
+Test Cases: https://www.hackerrank.com/rest/contests/master/challenges/class-1-dealing-with-complex-numbers/download_testcases

@@ -1,0 +1,3 @@
+Problem URL: https://www.hackerrank.com/challenges/py-check-subset/problem
+Problem Statement: https://www.hackerrank.com/rest/contests/master/challenges/py-check-subset/download_pdf?language=English
+Test Cases: https://www.hackerrank.com/rest/contests/master/challenges/py-check-subset/download_testcases

@@ -1,0 +1,3 @@
+Problem URL: https://www.hackerrank.com/challenges/compress-the-string/problem
+Problem Statement: https://www.hackerrank.com/rest/contests/master/challenges/compress-the-string/download_pdf?language=English
+Test Cases: https://www.hackerrank.com/rest/contests/master/challenges/compress-the-string/download_testcases
