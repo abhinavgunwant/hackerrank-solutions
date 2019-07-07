@@ -1,0 +1,3 @@
+Problem URL: https://www.hackerrank.com/challenges/map-and-lambda-expression/problem
+Problem Statement: https://www.hackerrank.com/rest/contests/master/challenges/map-and-lambda-expression/download_pdf?language=English
+Test Cases: https://www.hackerrank.com/rest/contests/master/challenges/map-and-lambda-expression/download_testcases
