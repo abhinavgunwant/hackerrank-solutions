@@ -1,0 +1,3 @@
+Problem URL: https://www.hackerrank.com/challenges/py-the-captains-room/problem
+Problem Statement: https://www.hackerrank.com/rest/contests/master/challenges/py-the-captains-room/download_pdf?language=English
+Test Cases: https://www.hackerrank.com/rest/contests/master/challenges/py-the-captains-room/download_testcases

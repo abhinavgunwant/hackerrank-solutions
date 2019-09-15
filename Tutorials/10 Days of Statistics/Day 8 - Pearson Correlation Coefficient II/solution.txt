@@ -1,0 +1,32 @@
+Answer: -3/4
+
+----------
+According to Day 8: Least Square Regression Line's tutorial,
+Y = a + bX                  ----eq(I)
+
+for regression line of x on y,
+    y = -2 -3/4x            ----eq(1)
+
+for regression line of y on x,
+    x = -7/4 -3/4y          ----eq(2)
+
+So, b = -3/4
+
+b = p * (sigma_x / sigma_y), where p is Pearson's correlation coefficient
+p = b * (sigma_y / sigma_x)
+
+taking b from eq(1),
+    p = -3/4 * (sigma_y / sigma_x)      ----eq(3)
+
+taking b from eq(2),
+    p = -3/4 * (sigma_x / sigma_y)      ----eq(4)
+
+multiplying eq(3) and eq(4), we have:
+    p^2 = 9/16
+    p = ±3/4
+
+in eq(I), b is the slope of the line
+since the slope of the line is negative in both
+the lines, p is negative
+
+Hence, p = -3/4

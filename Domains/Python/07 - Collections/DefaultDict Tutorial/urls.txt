@@ -1,0 +1,3 @@
+Problem URL: https://www.hackerrank.com/challenges/defaultdict-tutorial/problem
+Problem Statement: https://www.hackerrank.com/rest/contests/master/challenges/defaultdict-tutorial/download_pdf?language=English
+Test Cases: https://www.hackerrank.com/rest/contests/master/challenges/defaultdict-tutorial/download_testcases
