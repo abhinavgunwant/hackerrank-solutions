@@ -1,0 +1,2 @@
+Problem Statement: https://www.hackerrank.com/rest/contests/master/challenges/ruby-methods-keyword-arguments/download_pdf?language=English
+Test Cases: https://www.hackerrank.com/rest/contests/master/challenges/ruby-methods-keyword-arguments/download_testcases
